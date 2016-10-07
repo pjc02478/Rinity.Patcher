@@ -10,3 +10,7 @@ int CalcDamage(int incomingDamage) {
   return incomingDamage - Def;
 }
 ```
+
+Attributes
+----
+* __Proxy__
