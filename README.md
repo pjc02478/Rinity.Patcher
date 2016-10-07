@@ -14,3 +14,8 @@ int CalcDamage(int incomingDamage) {
 Attributes
 ----
 * __Proxy__
+
+roadmap
+----
+* [x] 정적 메소드 교체
+* [ ] 런타임 메소드 교체
