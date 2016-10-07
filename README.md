@@ -14,6 +14,7 @@ int CalcDamage(int incomingDamage) {
 Attributes
 ----
 * __Proxy__
+* __Inject__
 
 roadmap
 ----
